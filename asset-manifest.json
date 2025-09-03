@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flood-relief/static/css/main.1833ec0c.css",
+    "main.js": "/flood-relief/static/js/main.8b9c923a.js",
+    "static/js/453.1a1251c8.chunk.js": "/flood-relief/static/js/453.1a1251c8.chunk.js",
+    "index.html": "/flood-relief/index.html",
+    "main.1833ec0c.css.map": "/flood-relief/static/css/main.1833ec0c.css.map",
+    "main.8b9c923a.js.map": "/flood-relief/static/js/main.8b9c923a.js.map",
+    "453.1a1251c8.chunk.js.map": "/flood-relief/static/js/453.1a1251c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1833ec0c.css",
+    "static/js/main.8b9c923a.js"
+  ]
+}
